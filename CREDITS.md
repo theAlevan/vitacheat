@@ -9,6 +9,7 @@
    * @WasabiIceCream
 * **Code author**:
    * 0x6a6576
+   * 16mpx (Erdal)
    * AngelofWoe
    * Aichitaka/Jialeyne19
    * attmkk
@@ -17,6 +18,7 @@
    * dask
    * Daze
    * Demolinizer
+   * DKonLord
    * Dynel81
    * eco95
    * eighthdayregret
@@ -30,10 +32,13 @@
    * Larry Dungo
    * Makein
    * Mapachillo
+   * Mithjack
    * monodevil
    * NanayaEmiya
+   * Neriek
    * ness151
    * noelxleon
+   * nolberto82
    * optantic
    * Qiu Tonghe
    * r0ah
@@ -46,9 +51,11 @@
    * speedfly
    * tokthem
    * Udaius
+   * VisitntX
    * vergil
    * westwood
-   * xJam-es (raing3)
+   * WhiteLord (MaxConsole Forums)
+   * xJam.es
    * ymbgames
    * Yohoki
    * zacknova
@@ -71,6 +78,7 @@
    * Smoker1
    * AnalogMan
    * 0x3000027E
+   * Yohoki (TempAR - Vita Edition)
 * **Cheat plugin**:
    * vosman
    * blueheaven

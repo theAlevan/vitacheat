@@ -1,5 +1,8 @@
 * <kbd>[PCSA00009.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00009.psv)</kbd> Hot Shots Golf: World Invitational
 * <kbd>[PCSA00012.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00012.psv)</kbd> Reality Fighters
+* <kbd>[PCSA00014.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00014.psv)</kbd> Unit 13
+* <kbd>[PCSA00029.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00029.psv)</kbd> Uncharted: Golden Abyss
+* <kbd>[PCSA00065.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00065.psv)</kbd> MLB 13 The Show
 * <kbd>[PCSA00068.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00068.psv)</kbd> Sly Cooper: Thieves in Time
 * <kbd>[PCSA00069.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00069.psv)</kbd> Playstation All-Stars Battle Royale
 * <kbd>[PCSA00109.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00109.psv)</kbd> Pinball Heroes: Complete
@@ -11,6 +14,8 @@
 * <kbd>[PCSB00038.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00038.psv)</kbd> Urban Trial Freestyle
 * <kbd>[PCSB00049.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00049.psv)</kbd> Shinobido 2: Revenge of Zen
 * <kbd>[PCSB00070.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00070.psv)</kbd> Ultimate Marvel vs. Capcom 3
+* <kbd>[PCSB00089.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00089.psv)</kbd> Dynasty Warriors Next
+
 * <kbd>[PCSB00097.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00097.psv)</kbd> Ninja Gaiden Sigma
 * <kbd>[PCSB00106.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00106.psv)</kbd> Mortal Kombat
 * <kbd>[PCSB00115.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00115.psv)</kbd> Silent Hill: Book of Memories
@@ -26,6 +31,7 @@
 * <kbd>[PCSB00356.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00356.psv)</kbd> Injustice: Gods Among Us Ultimate Edition
 * <kbd>[PCSB00394.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00394.psv)</kbd> Final Fantasy X-2 HD Remaster
 * <kbd>[PCSB00395.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00395.psv)</kbd> Final Fantasy X HD Remaster
+* <kbd>[PCSB00396.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00396.psv)</kbd> Dragon Ball Z: Battle of Z
 * <kbd>[PCSB00397.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00397.psv)</kbd> Angry Birds Star Wars
 * <kbd>[PCSB00416.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00416.psv)</kbd> Table Top Racing
 * <kbd>[PCSB00473.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00473.psv)</kbd> Monster Monpiece
@@ -33,6 +39,8 @@
 * <kbd>[PCSB00503.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00503.psv)</kbd> Lego The Hobbit
 * <kbd>[PCSB00598.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00598.psv)</kbd> Child of Light
 * <kbd>[PCSB00648.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00648.psv)</kbd> Best of Arcade Games
+* <kbd>[PCSB00650.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00650.psv)</kbd> Project Root
+* <kbd>[PCSB00676.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00676.psv)</kbd> The Binding of Isaac: Rebirth
 * <kbd>[PCSB00764.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00764.psv)</kbd> Lego Marvel's Avengers
 * <kbd>[PCSB00769.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00769.psv)</kbd> Geometry Wars 3: Dimensions Evolved
 * <kbd>[PCSB00788.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00788.psv)</kbd> Danganronpa Another Episode: Ultra Despair Girls
@@ -53,8 +61,10 @@
 * <kbd>[PCSD00084.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSD00084.psv)</kbd> Oreshika: Tainted Bloodlines / Ore no Shikabane o Koete Yuke 2
 * <kbd>[PCSD00087.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSD00087.psv)</kbd> Freedom Wars
 * <kbd>[PCSE00001.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00001.psv)</kbd> Ridge Racer
+* <kbd>[PCSE00003.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00003.psv)</kbd> Virtua Tennis 4: World Tour Edition
 * <kbd>[PCSE00007.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00007.psv)</kbd> Asphalt: Injection
 * <kbd>[PCSE00008.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00008.psv)</kbd> Dungeon Hunter: Alliance
+* <kbd>[PCSE00016.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00016.psv)</kbd> Touch my Katamari
 * <kbd>[PCSE00019.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00019.psv)</kbd> Dragon's Crown
 * <kbd>[PCSE00020.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00020.psv)</kbd> Metal Gear Solid HD Collection
 * <kbd>[PCSE00021.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00021.psv)</kbd> Ninja Gaiden Sigma Plus
@@ -75,6 +85,7 @@
 * <kbd>[PCSE00209.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00209.psv)</kbd> Earth Defense Force 2017 Portable
 * <kbd>[PCSE00224.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00224.psv)</kbd> Draw Slasher
 * <kbd>[PCSE00229.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00229.psv)</kbd> Fruit Ninja
+* <kbd>[PCSE00231.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00231.psv)</kbd> Atelier Totori Plus: The Adventurer of Arland
 * <kbd>[PCSE00233.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00233.psv)</kbd> Ninja Gaiden Sigma 2 Plus
 * <kbd>[PCSE00235.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00235.psv)</kbd> Dead or Alive 5 Plus
 * <kbd>[PCSE00240.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00240.psv)</kbd> Muramasa Rebirth
@@ -85,8 +96,10 @@
 * <kbd>[PCSE00273.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00273.psv)</kbd> Rainbow Moon
 * <kbd>[PCSE00283.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00283.psv)</kbd> Final Fantasy X-2 HD Remaster
 * <kbd>[PCSE00293.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00293.psv)</kbd> Final Fantasy X HD Remaster
+* <kbd>[PCSE00296.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00296.psv)</kbd> Atelier Meruru Plus: The Apprentice of Arland
 * <kbd>[PCSE00300.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00300.psv)</kbd> Ragnarok Odyssey ACE
 * <kbd>[PCSE00317.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00317.psv)</kbd> Terraria
+* <kbd>[PCSE00349.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00349.psv)</kbd> 1001 Spikes
 * <kbd>[PCSE00358.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00358.psv)</kbd> Demon Gaze
 * <kbd>[PCSE00373.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00373.psv)</kbd> Monster Monpiece
 * <kbd>[PCSE00383.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00383.psv)</kbd> Borderlands 2
@@ -98,13 +111,16 @@
 * <kbd>[PCSE00458.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00458.psv)</kbd> Phantom Breaker: Battlegrounds
 * <kbd>[PCSE00465.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00465.psv)</kbd> Sword Art Online -Hollow Fragment- (Singleplayer)
 * <kbd>[PCSE00465-mp.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00465-mp.psv)</kbd> Sword Art Online -Hollow Fragment- (Multiplayer)
+* <kbd>[PCSE00466.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00466.psv)</kbd> Atelier Rorona Plus: The Alchemist of Arland
 * <kbd>[PCSE00467.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00467.psv)</kbd> Toukiden: Kiwami
+* <kbd>[PCSE00486.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00486.psv)</kbd> Project Root
 * <kbd>[PCSE00507.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00507.psv)</kbd> The Binding of Isaac: Rebirth
 * <kbd>[PCSE00518.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00518.psv)</kbd> Damascus Gear: Operation Tokyo
 * <kbd>[PCSE00536.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00536.psv)</kbd> Fantasy Hero: Unsigned Legacy
 * <kbd>[PCSE00537.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00537.psv)</kbd> Jetpack Joyride Deluxe
 * <kbd>[PCSE00546.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00546.psv)</kbd> Retro City Rampage DX
 * <kbd>[PCSE00561.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00561.psv)</kbd> Q*bert: Rebooted
+* <kbd>[PCSE00567.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00567.psv)</kbd> La-Mulana EX
 * <kbd>[PCSE00587.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00587.psv)</kbd> Lego Jurassic World
 * <kbd>[PCSE00595.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00595.psv)</kbd> J-STARS Victory VS+
 * <kbd>[PCSE00597.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00597.psv)</kbd> Titan Souls
@@ -112,9 +128,11 @@
 * <kbd>[PCSE00638.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00638.psv)</kbd> One Piece: Pirate Warriors 3
 * <kbd>[PCSE00665.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00665.psv)</kbd> Metal Slug 3
 * <kbd>[PCSE00707.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00707.psv)</kbd> Ar nosurge Plus: Ode to an Unborn Star
+* <kbd>[PCSE00726.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00726.psv)</kbd> A Boy and His Blob
 * <kbd>[PCSE00738.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00738.psv)</kbd> Organ Trail Complete Edition
 * <kbd>[PCSE00743.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00743.psv)</kbd> Deception IV: The Nightmare Princess
 * <kbd>[PCSE00755.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00755.psv)</kbd> Digimon Story Cyber Sleuth
+* <kbd>[PCSE00771.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00771.psv)</kbd> Taco Master
 * <kbd>[PCSE00786.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00786.psv)</kbd> The Legend of Heroes: Trails of Cold Steel
 * <kbd>[PCSE00789.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00789.psv)</kbd> God Eater 2: Rage Burst
 * <kbd>[PCSE00791.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00791.psv)</kbd> Lego Star Wars: The Force Awakens
@@ -125,13 +143,16 @@
 * <kbd>[PCSE00881.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00881.psv)</kbd> Gal*Gun: Double Peace
 * <kbd>[PCSE00893.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00893.psv)</kbd> Tokyo Xanadu
 * <kbd>[PCSE00896.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00896.psv)</kbd> The Legend of Heroes: Trails of Cold Steel II
+* <kbd>[PCSE00903.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00903.psv)</kbd> Sword Art Online: Hollow Realization
 * <kbd>[PCSE00904.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00904.psv)</kbd> Psycho-Pass: Mandatory Happiness
 * <kbd>[PCSE00905.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00905.psv)</kbd> Adventures of Mana
 * <kbd>[PCSE00912.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00912.psv)</kbd> Dragon Quest Builders
+* <kbd>[PCSE00930.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00930.psv)</kbd> Bard's Gold
 * <kbd>[PCSE00940.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00940.psv)</kbd> Toukiden 2
 * <kbd>[PCSE00950.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00950.psv)</kbd> Shantae: Half-Genie Hero
 * <kbd>[PCSE00951.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00951.psv)</kbd> Summon Night 6: Lost Borders
 * <kbd>[PCSE00958.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00958.psv)</kbd> GAROU: MARK OF THE WOLVES
+* <kbd>[PCSE00964.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00964.psv)</kbd> Talisman: Digital Edition
 * <kbd>[PCSE01003.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01003.psv)</kbd> Valkyria Revolution
 * <kbd>[PCSE01023.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01023.psv)</kbd> Salt and Sanctuary
 * <kbd>[PCSE01031.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01031.psv)</kbd> Chasm
@@ -141,11 +162,13 @@
 * <kbd>[PCSE01111.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01111.psv)</kbd> Rabi-Ribi
 * <kbd>[PCSE01144.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01144.psv)</kbd> Under Night In-Birth Exe:Late[st]
 * <kbd>[PCSE01147.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01147.psv)</kbd> Antiquia Lost
+* <kbd>[PCSE01153.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01153.psv)</kbd> Secret of Mana
 * <kbd>[PCSE01171.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01171.psv)</kbd> Digimon Story: Cyber Sleuth - Hacker's Memory
 * <kbd>[PCSE01191.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01191.psv)</kbd> Xenon Valkyrie+
 * <kbd>[PCSE01235.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01235.psv)</kbd> Stardew Valley
 * <kbd>[PCSE01251.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01251.psv)</kbd> Riddled Corpses EX
 * <kbd>[PCSE01262.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01262.psv)</kbd> Bloodstained: Curse of the Moon
+* <kbd>[PCSE01400.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01400.psv)</kbd> Cybarian: The Time Traveling Warrior
 * <kbd>[PCSF00153.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00153.psv)</kbd> Playstation All-Stars: Battle Royale
 * <kbd>[PCSF00191.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00191.psv)</kbd> Ratchet & Clank: QForce
 * <kbd>[PCSF00427.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00427.psv)</kbd> Dead Nation
@@ -199,6 +222,7 @@
 * <kbd>[PCSG00954.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00954.psv)</kbd> Sengoku Musou: Sanada Maru
 * <kbd>[PCSG00957.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00957.psv)</kbd> Garou: Mark of the Wolves
 * <kbd>[PCSG01121.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG01121.psv)</kbd> Seiken Densetsu 2: Secret of Mana
+* <kbd>[PCSG01179.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG01179.psv)</kbd> Catherine: Full Body
 * <kbd>[PCSH00003.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00003.psv)</kbd> Dynasty Warriors Next
 * <kbd>[PCSH00019.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00019.psv)</kbd> DJMAX TECHNIKA TUNE
 * <kbd>[PCSH00021.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00021.psv)</kbd> Persona 4: The GOLDEN
